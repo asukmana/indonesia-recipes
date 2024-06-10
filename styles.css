@@ -1,0 +1,40 @@
+#judul {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+ol {
+    color:fuchsia;
+    background-color: aqua;
+}
+
+ul {
+    color:darkblue;
+    background-color: darkred;
+}
+
+p {
+    color:darkorange;
+    background-color: greenyellow;
+}
+
+p, ul, ol {
+    font-size: 20px;
+}
+
+img {
+    height: auto;
+    width:500px;
+}
+
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
